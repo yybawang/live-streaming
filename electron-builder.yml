@@ -1,6 +1,7 @@
 appId: com.live-streaming.app
 productName: Live Streaming
 directories:
+  output: release
   buildResources: build
 files:
   - '!src/*'
